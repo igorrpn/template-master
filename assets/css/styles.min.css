@@ -1,0 +1,63 @@
+
+
+.nav-link,.nav-link:hover{transition:.4s all!important}
+.nav-link.active{color:#ffc107!important}
+.nav-link-black .nav-item .nav-link{color:#000!important}
+.section{padding:3.5em 0;color:#f8f9fa}
+.border-circle{border:1px solid;border-radius:9px!important;padding:0;margin:8px}
+.link-icon{font-size:1.4em!important;padding-top:4px!important;padding-bottom:0!important}
+.bg-black{background:#000!important}
+.border-05{border:.5px solid!important}
+.border-2{border:2px solid!important}
+.border-radius-0,.card-falcon{border-radius:0!important}
+.footer{padding:3em 0;background:#f8f9fa}
+.nav-link-black .nav-item .nav-link.active{color:#ffc107!important}
+.personal-nav .nav-item .nav-link{padding-left:0;padding-right:0}
+#carousel-1 .carousel-inner .carousel-item img{height:500px!important;background-size:initial!important;background-position:center!important;background-repeat:no-repeat!important}
+.h2,h2{font-size:55px!important;font-weight:700!important}
+.h3,h3{font-size:2em}
+.header-section{text-align:center;margin-bottom:50px}
+p{font-size:1.2em}
+.h1,h1{font-size:4em}
+.icon-large{font-size:8em}
+.btn{text-transform:uppercase}
+.w-90{width:90%}
+.card-falcon .card-body{padding:0}
+.card-falcon{width:100%;margin:0 auto;margin-bottom:20px!important}
+.jumbotron-page{padding-top:10em;padding-bottom:1em;margin-bottom:0;text-align:center;margin-top:100px}
+.breadcrumb-jumbotron-title{margin-top:150px;text-align:left;color:#fff}
+.jumbotron-title{font-size:3.5em;font-weight:700}
+.section-one{padding:3.5em 0;color:#fff}
+.section-one .title-section-right{margin-left:45px;text-align:left}
+.section-one .paragraph-section-left,.section-one .title-section-left{margin-right:45px;text-align:right}
+.section-one .paragraph-section-right{margin-left:45px}
+.section-one .paragraph-section{text-align:center}
+.btn-radius-0{border-radius:0}
+.card-falcon .card-img-overlay .row{height:100%}
+.container.container-for-contact{height:240px;border:1px solid #000;border-radius:0!important;width:100%}
+.container.container-for-contact .row{height:240px;padding:0 55px}
+.container.container-for-contact .row .col{margin:20px 0!important}
+.title-container-for-contact{font-size:50px;font-weight:700}
+.section-fluid{padding:3.5em 0;color:#fff}
+
+.carousel-indicators{
+}
+
+.carousel-indicators li {
+    margin-top: 25px;
+}
+
+.carousel-indicators li.active {
+    background: #ffc107;
+}
+
+.carousel-indicators span {
+    color: white;
+    padding: 15px!important;
+}
+
+.btn-scroll-animate{
+    background: none;
+    border: none;
+}
+ 
